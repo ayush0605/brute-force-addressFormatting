@@ -25,3 +25,15 @@ sample input
  "sub district": "",
  "langcode": "06"
 }
+
+{
+ "house": "#15b new gangama chart street",
+ "street": "mothi nagar",
+ "landmark": "",
+ "locality": "mothinagar",
+ "vtc": "Bangalore North",
+ "district": "Bangalore",
+ "state": "Karnataka",
+ "pincode": "1",
+ "sub district": ""
+}
