@@ -1,0 +1,39 @@
+sample input
+
+{
+ "house": "#15बी नया गंगामा चार्ट स्ट्रीट",
+ "street": "मोती नगर",
+ "landmark": "",
+ "locality": "मोतीनगर",
+ "vtc": "बैंगलोर उत्तर",
+ "district": "बैंगलोर",
+ "state": "कर्नाटक",
+ "pincode": "1",
+ "sub district": "",
+ "langcode": "06"
+}
+
+{
+ "house": "नहीं 40",
+ "street": "स्टोर स्ट्रीट",
+ "landmark": "लोकप्रिय नर्सिंग होम के पास",
+ "locality": "कलसीपाल्य",
+ "vtc": "बैंगलोर उत्तर",
+ "district": "बैंगलोर",
+ "state": "कर्नाटक",
+ "pincode": "1",
+ "sub district": "",
+ "langcode": "06"
+}
+
+{
+ "house": "#15b new gangama chart street",
+ "street": "mothi nagar",
+ "landmark": "",
+ "locality": "mothinagar",
+ "vtc": "Bangalore North",
+ "district": "Bangalore",
+ "state": "Karnataka",
+ "pincode": "1",
+ "sub district": ""
+}
